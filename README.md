@@ -1,4 +1,4 @@
-# http://<script><p title="</script><img src=x onerror=alert()>"</p></script>
+# http://<p><svg/onload=alert()></p>
 
 
 **arjunjaiswal8/arjunjaiswal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
