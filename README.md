@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Visit http://javascript<h1>hello</h1>
+Visit http://javascript<img src=zz >
