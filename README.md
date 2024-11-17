@@ -1,4 +1,4 @@
-# http://<p><svg/onload=alert()></p>
+# http://<p><svg/onload></p>
 
 
 **arjunjaiswal8/arjunjaiswal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
