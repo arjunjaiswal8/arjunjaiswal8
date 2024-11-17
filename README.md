@@ -24,3 +24,4 @@ function test() {
 Look! You can see my backticks.
 ```
 ````
+Visit javascript:alert()
