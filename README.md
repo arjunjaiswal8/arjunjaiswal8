@@ -14,14 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-````
-```
-Look! You can see my backticks.
-```
-````
-Visit http://javascript
+
+Visit http://javascript" onclick=alert()
