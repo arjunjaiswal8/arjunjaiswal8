@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Visit http://jaaaaaaaa<img src=zz >
+Visit debugger
