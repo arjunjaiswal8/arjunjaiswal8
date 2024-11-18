@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-Visit http://javascript'+alert()//
+Visit http://javascript'
