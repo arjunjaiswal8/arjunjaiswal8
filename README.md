@@ -79,6 +79,29 @@
 # <meter></meter>
 # <kbd></kbd>
 # <samp></samp>
+# <abbr></abbr>
+# <bdi></bdi>
+# <bdo></bdo>
+# <wbr></wbr>
+# <noscript></noscript>
+# <object></object>
+# <embed></embed>
+# <param></param>
+# <picture></picture>
+# <map></map>
+# <area></area>
+# <base></base>
+# <col></col>
+# <colgroup></colgroup>
+# <del></del>
+# <ins></ins>
+# <ruby></ruby>
+# <rt></rt>
+# <rp></rp>
+# <data></data>
+# <datalist></datalist>
+# <output></output>
+
 
 
 
