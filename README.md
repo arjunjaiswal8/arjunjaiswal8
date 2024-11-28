@@ -6,23 +6,15 @@
 # <p>car<p>hello</p></p>
 
 
-# <html></html>
-# <head></head>
-# <body></body>
-# <title></title>
-# <meta></meta>
+
 # <link></link>
 # <script></script>
-# <style></style>
-# <div></div>
-# <span></span>
-# <p></p>
-# <a></a>
-# <img></img>
-# <ul></ul>
-# <ol></ol>
-# <li></li>
-# <table></table>
+
+
+
+
+
+
 # <tr></tr>
 # <td></td>
 # <th></th>
@@ -36,10 +28,9 @@
 # <footer></footer>
 # <nav></nav>
 # <main></main>
-# <form></form>
-# <input></input>
-# <textarea></textarea>
-# <button></button>
+
+
+
 # <select></select>
 # <option></option>
 # <label></label>
