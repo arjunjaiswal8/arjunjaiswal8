@@ -7,4 +7,4 @@
 
 # <image><image></image></image>
 
-# <textarea></textarea>
+# <a type="x"> <div><img>
