@@ -5,4 +5,4 @@
 ![icons"><img src="x](javascript:alert())
 # <p>car<p>hello</p></p>
 
-# <li><table></li><li></table></li><div></div>
+# <iframe></iframe> <noembed></noembed><noframes></noframes> <noscript></noscript> <script></script> <style></style> <textarea></textarea> <title></title> <xmp></xmp>
