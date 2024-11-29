@@ -7,4 +7,4 @@
 
 # <image><image></image></image>
 
-# <div><a type="x"> <img><div><div>
+# <div><a type="x"> <img><div>
