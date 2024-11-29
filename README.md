@@ -6,7 +6,7 @@
 # <p>car<p>hello</p></p>
 
 # <p><audio></audio></p>
-# <img src="x">
+# <img src="x" type="alert()">
 
 
 
